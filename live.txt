@@ -8,5 +8,5 @@
 
 地方频道,#genre#
 
-2024-10-21更新,#genre#
-2024-10-21更新,https://liuliuliu.tv/api/channels/2004/stream
+2024-10-22更新,#genre#
+2024-10-22更新,https://liuliuliu.tv/api/channels/2004/stream
